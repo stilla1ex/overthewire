@@ -20,12 +20,7 @@ This is a **Malware Analysis and Detection System** that is designed to analyze 
 ```bash
    git clone https://github.com/yourusername/malware-analysis-system.git
    cd malware-analysis-system
-   
-   # Install dependencies
-   pip install -r requirements.txt
-   
-   # Run the system
-   python main.py
+   code .
 ```
 
 ## Usage
