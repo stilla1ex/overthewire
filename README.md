@@ -98,4 +98,5 @@ cat spaces\ in\ this\ filename
 
 ***Password for bandit3***
 ```bash
-MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx```
+MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+```
