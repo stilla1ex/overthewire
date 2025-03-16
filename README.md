@@ -1,6 +1,6 @@
 <h3 align="center">overthewire wargames</h3>
 
----
+--- 
 ### Bandit Level 0  - First, we need to ssh to the overthewire
 
 **Level Goal**  
