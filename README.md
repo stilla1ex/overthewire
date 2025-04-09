@@ -1,7 +1,7 @@
 <h3 align="center">overthewire wargames</h3>
 
 ---  
-### Bandit Level 0  - First, we need to ssh to the overthewire
+### Bandit Level 0  - First, we need to ssh to the overthewire 
 
 **Level Goal**  
 The password for the next level is stored in a file called `readme` located in the home directory. Use this password to log into `bandit1` using SSH.  
