@@ -10,7 +10,7 @@ Whenever you find a password for a level, use SSH (on port `2220`) to log into t
  
 **Commands you may need to solve this level:**  
 ```bash 
-  ls, cd, cat, file, du, find 
+  ls, cd, cat, file, du, find  
 ``` 
 
 ***Type the following commands***
